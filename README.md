@@ -63,5 +63,15 @@ The dashboard was built using the following tools and technologies:
 ---
 
 ## 🎥 7. Demo
+### 📊 Dashboard Overview
+![Dashboard Overview](https://github.com/pathearya16/Pharmaceuticals-Sales-Analytics-Dashboard/blob/main/DASH_OVERVIEW.png)
 
-_Add screenshots or demo video link here_
+---
+
+### ⏱️ Time & Seasonality Analysis
+![Time & Seasonality](https://github.com/pathearya16/Pharmaceuticals-Sales-Analytics-Dashboard/blob/main/TIME%26SEASONALITY_PAGE2.png)
+
+---
+
+### 🔮 Forecast & Insights
+![Forecast & Insights](https://github.com/pathearya16/Pharmaceuticals-Sales-Analytics-Dashboard/blob/main/FORECAST%26INSIGHTS_PAGE3.png)
